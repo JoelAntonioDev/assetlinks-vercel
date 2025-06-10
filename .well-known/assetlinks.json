@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.seupacote.nomeapp",
+      "sha256_cert_fingerprints": [
+        "C4:C1:28:3E:25:31:08:3B:6E:AB:FE:C4:D2:ED:88:CB:3F:C6:CE:34:D8:5C:83:19:66:CF:C8:27:B1:D5:C3:81"
+      ]
+    }
+  }
+]
